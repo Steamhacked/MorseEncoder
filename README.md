@@ -1,5 +1,5 @@
 # MorseEncoder
-A simple Morse encoder console app
+A simple Morse encoder C# console application
 
 On run - accepts a string on the input and returns a modified Morse code string on the output
 
